@@ -7,7 +7,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```clc;
+clc;
 close;
 M=input('Enter the Odd Filter Length =');
 Wc=input('Enter the Digital Cut off frequency =');
@@ -35,7 +35,7 @@ subplot(2,1,2);
 plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
-title('Frequency Response of FIR LPF using Hamming Window');```
+title('Frequency Response of FIR LPF using Hamming Window');
 
 # OUTPUT: 
 <img width="730" height="585" alt="image" src="https://github.com/user-attachments/assets/8b3737ac-ad19-48f2-827b-9db0f9dffa28" />
@@ -51,7 +51,7 @@ Thus design of low pass FIR digital filter using-Hamming-Window waveforms were p
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```clc;
+clc;
 close;
 M=input('Enter the Odd Filter Length =');
 Wc=input('Enter the Digital Cut off frequency =');
@@ -79,7 +79,7 @@ subplot(2,1,2);
 plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
-title('Frequency Response of FIR HPF using Hamming Window');```
+title('Frequency Response of FIR HPF using Hamming Window');
 
 # OUTPUT: 
 
@@ -94,7 +94,7 @@ Thus design of HIGH pass FIR digital filter using-Hamming-Window waveforms were 
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```clc;
+clc;
 close;
 M=input('Enter the Odd Filter Length =');
 Wc=input('Enter the Digital Cut off frequency =');
@@ -124,7 +124,7 @@ subplot(2,1,2);
 plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
-title('Frequency Response of FIR BPF using Hamming Window');```
+title('Frequency Response of FIR BPF using Hamming Window');
 
 # OUTPUT: 
 <img width="711" height="581" alt="image" src="https://github.com/user-attachments/assets/57389948-4feb-4586-b343-2739bb00a0f3" />
@@ -139,7 +139,7 @@ Thus design of BAND pass FIR digital filter using-Hamming-Window waveforms were 
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```clc;
+clc;
 close;
 M=input('Enter the Odd Filter Length =');
 Wc=input('Enter the Digital Cut off frequency =');
@@ -169,11 +169,11 @@ subplot(2,1,2);
 plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
-title('Frequency Response of FIR BSF using Hamming Window');```
+title('Frequency Response of FIR BSF using Hamming Window');
 
 # OUTPUT: 
 <img width="736" height="582" alt="image" src="https://github.com/user-attachments/assets/51662973-9cf6-452f-8f05-188747ef3b45" />
-https://private-user-images.githubusercontent.com/279912053/640773283-9f6d4bd4-0f44-45f3-9c06-005fedda2f97.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODc2NTA0MTMsIm5iZiI6MTc4NzY1MDExMywicGF0aCI6Ii8yNzk5MTIwNTMvNjQwNzczMjgzLTlmNmQ0YmQ0LTBmNDQtNDVmMy05YzA2LTAwNWZlZGRhMmY5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyNVQwOTI4MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYjIyYTZkZTZmZTUyMjJiZDI2YmIyNmU3YzY3NmQxZDVjNWRiOWI2MjY5MWJiZWNlMjRhODEzNjRhZjhmY2Y4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.g6o_Iq-CxSG1SswmfAyDFGeyBPaquam8HANjbkjxUkM
+
 
 
 # RESULT: 
