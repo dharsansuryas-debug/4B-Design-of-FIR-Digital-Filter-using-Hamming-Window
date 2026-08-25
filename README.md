@@ -53,6 +53,7 @@ Thus design of low pass FIR digital filter using-Hamming-Window waveforms were p
 PC installed with SCILAB. 
 
 # PROGRAM: 
+```
 clc;
 close;
 M=input('Enter the Odd Filter Length =');
@@ -82,6 +83,7 @@ plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR HPF using Hamming Window');
+```
 
 # OUTPUT: 
 
@@ -96,6 +98,7 @@ Thus design of HIGH pass FIR digital filter using-Hamming-Window waveforms were 
 PC installed with SCILAB. 
 
 # PROGRAM: 
+```
 clc;
 close;
 M=input('Enter the Odd Filter Length =');
@@ -127,6 +130,7 @@ plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR BPF using Hamming Window');
+```
 
 # OUTPUT: 
 <img width="711" height="581" alt="image" src="https://github.com/user-attachments/assets/57389948-4feb-4586-b343-2739bb00a0f3" />
@@ -141,6 +145,7 @@ Thus design of BAND pass FIR digital filter using-Hamming-Window waveforms were 
 PC installed with SCILAB. 
 
 # PROGRAM: 
+```
 clc;
 close;
 M=input('Enter the Odd Filter Length =');
@@ -172,6 +177,7 @@ plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR BSF using Hamming Window');
+```
 
 # OUTPUT: 
 <img width="736" height="582" alt="image" src="https://github.com/user-attachments/assets/51662973-9cf6-452f-8f05-188747ef3b45" />
