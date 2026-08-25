@@ -7,6 +7,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
+```
 clc;
 close;
 M=input('Enter the Odd Filter Length =');
@@ -36,6 +37,7 @@ plot(2*fr,hzm_dB);
 xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Hamming Window');
+```
 
 # OUTPUT: 
 <img width="730" height="585" alt="image" src="https://github.com/user-attachments/assets/8b3737ac-ad19-48f2-827b-9db0f9dffa28" />
