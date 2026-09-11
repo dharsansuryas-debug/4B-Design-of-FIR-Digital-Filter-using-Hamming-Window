@@ -40,7 +40,9 @@ title('Frequency Response of FIR LPF using Hamming Window');
 ```
 
 # OUTPUT: 
-<img width="730" height="585" alt="image" src="https://github.com/user-attachments/assets/8b3737ac-ad19-48f2-827b-9db0f9dffa28" />
+<img width="752" height="711" alt="image" src="https://github.com/user-attachments/assets/86d43c95-f915-40f3-98fd-6e622a9772d3" />
+<img width="810" height="590" alt="image" src="https://github.com/user-attachments/assets/b070e673-2be3-4801-a7e9-db8a3c08fb68" />
+
 
 
 # RESULT: 
@@ -87,7 +89,9 @@ title('Frequency Response of FIR HPF using Hamming Window');
 
 # OUTPUT: 
 
-<img width="712" height="578" alt="image" src="https://github.com/user-attachments/assets/37aa1746-f6c3-46b0-b803-a0044e768c78" />
+<img width="750" height="722" alt="image" src="https://github.com/user-attachments/assets/4af68351-ff28-4b81-8edb-d29dbf47862e" />
+<img width="630" height="635" alt="image" src="https://github.com/user-attachments/assets/0cc8cbdd-626e-4f13-ab6a-bd7e9a694f94" />
+
 
 # RESULT: 
 Thus design of HIGH pass FIR digital filter using-Hamming-Window waveforms were plotted and output was verified.
@@ -133,7 +137,9 @@ title('Frequency Response of FIR BPF using Hamming Window');
 ```
 
 # OUTPUT: 
-<img width="711" height="581" alt="image" src="https://github.com/user-attachments/assets/57389948-4feb-4586-b343-2739bb00a0f3" />
+<img width="757" height="723" alt="image" src="https://github.com/user-attachments/assets/cd961774-72f5-440a-b63a-5bc89238b2cc" />
+<img width="717" height="608" alt="image" src="https://github.com/user-attachments/assets/c7bdc3a7-c16b-47a2-ae80-1e7ed8fb361e" />
+
 
 
 # RESULT: 
@@ -180,7 +186,8 @@ title('Frequency Response of FIR BSF using Hamming Window');
 ```
 
 # OUTPUT: 
-<img width="736" height="582" alt="image" src="https://github.com/user-attachments/assets/51662973-9cf6-452f-8f05-188747ef3b45" />
+<img width="757" height="712" alt="image" src="https://github.com/user-attachments/assets/0e83842e-8183-4202-92ed-5a9550a0dd85" />
+<img width="792" height="728" alt="image" src="https://github.com/user-attachments/assets/d6b38edd-5503-4778-9a95-fcd5ed0b0c80" />
 
 
 
